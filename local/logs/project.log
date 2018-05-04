@@ -1,0 +1,53 @@
+2018-05-04T14:49:05.500Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-04T14:49:05.504Z - normal: checking language setting...
+2018-05-04T14:49:05.504Z - normal: Language: zh
+2018-05-04T14:49:06.417Z - success: protocol editor-framework registered
+2018-05-04T14:49:06.417Z - success: protocol app registered
+2018-05-04T14:49:06.417Z - success: protocol theme registered
+2018-05-04T14:49:06.417Z - success: protocol packages registered
+2018-05-04T14:49:06.417Z - success: protocol unpack registerred
+2018-05-04T14:49:06.417Z - success: protocol disable-commonjs registerred
+2018-05-04T14:49:06.766Z - normal: connected!
+2018-05-04T14:49:06.769Z - normal: Check project /Users/zhy/cocoCreator/start_project
+2018-05-04T14:49:06.789Z - normal: Initializing Cocos2d
+2018-05-04T14:49:07.032Z - normal: Initializing Asset Database
+2018-05-04T14:49:07.071Z - success: protocol uuid registerred
+2018-05-04T14:49:07.072Z - success: protocol db registerred
+2018-05-04T14:49:07.072Z - success: protocol thumbnail registerred
+2018-05-04T14:49:07.072Z - normal: Loading editor/builtin packages
+2018-05-04T14:49:07.098Z - success: anysdk loaded
+2018-05-04T14:49:07.227Z - success: assets loaded
+2018-05-04T14:49:07.231Z - success: builder loaded
+2018-05-04T14:49:07.234Z - success: cocos-analytics loaded
+2018-05-04T14:49:07.238Z - success: console loaded
+2018-05-04T14:49:07.272Z - success: fb-instant-games loaded
+2018-05-04T14:49:07.278Z - success: hierarchy loaded
+2018-05-04T14:49:07.283Z - success: inspector loaded
+2018-05-04T14:49:07.285Z - success: keystore loaded
+2018-05-04T14:49:07.294Z - success: node-library loaded
+2018-05-04T14:49:07.296Z - success: package-asset loaded
+2018-05-04T14:49:07.299Z - success: preferences loaded
+2018-05-04T14:49:07.302Z - success: project-exporter loaded
+2018-05-04T14:49:07.319Z - success: project-importer loaded
+2018-05-04T14:49:07.323Z - success: project-settings loaded
+2018-05-04T14:49:07.326Z - success: ui-kit loaded
+2018-05-04T14:49:07.331Z - success: ui-grid loaded
+2018-05-04T14:49:07.336Z - success: scene loaded
+2018-05-04T14:49:07.337Z - success: sprite-editor loaded
+2018-05-04T14:49:07.342Z - success: store loaded
+2018-05-04T14:49:07.348Z - success: timeline loaded
+2018-05-04T14:49:07.349Z - normal: Loading builtin packages
+2018-05-04T14:49:07.352Z - success: asset-db-debugger loaded
+2018-05-04T14:49:07.354Z - success: color-picker loaded
+2018-05-04T14:49:07.357Z - success: package-manager loaded
+2018-05-04T14:49:07.363Z - success: sdkbox loaded
+2018-05-04T14:49:07.369Z - success: tester loaded
+2018-05-04T14:49:07.373Z - success: ui-kit-preview-extra loaded
+2018-05-04T14:49:07.377Z - success: ui-kit-preview loaded
+2018-05-04T14:49:07.380Z - success: ui-tree loaded
+2018-05-04T14:49:08.494Z - normal: Initializing project /Users/zhy/cocoCreator/start_project
+2018-05-04T14:49:08.497Z - normal: Loading packages
+2018-05-04T14:49:08.502Z - normal: Watching packages
+2018-05-04T14:49:08.513Z - normal: Run Application
+2018-05-04T14:49:09.031Z - success: preview server running at http://localhost:7456
+2018-05-04T14:49:16.921Z - normal: 1.9.0
